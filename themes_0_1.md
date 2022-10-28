@@ -14,7 +14,7 @@ hgridstyle|padding: auto !important;grid-auto-flow: column !important;grid-gap: 
 
 headerstyle|display: none !important;
 
-activetilestyle|transform: scale(1.5) !important;border: 5px solid rgb(119, 75, 151) !important;
+activetilestyle|border: 5px solid rgb(119, 75, 151) !important;
 
 additionalstyle|
 
