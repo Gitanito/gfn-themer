@@ -10,6 +10,8 @@ backgroundstyle|background-image: url('###bgurl###') !important;background-size:
 
 gridstyle|padding-top: 2em !important;
 
+hgridstyle|padding: auto !important;grid-auto-flow: column !important;grid-gap: 10px !important;justify-content: left !important;align-self: center !important;justify-self: center !important;position: absolute !important;bottom: 50px !important;
+
 headerstyle|display: none !important;
 
 activetilestyle|transform: scale(1.5) !important;border: 5px solid rgb(119, 75, 151) !important;
@@ -27,6 +29,8 @@ tilestyle|box-shadow:  20px 20px 30px #bebebe, -20px -20px 60px #ffffff !importa
 backgroundstyle|background-image: url('###bgurl###') !important;background-size: cover !important;
 
 gridstyle|padding-top: 2em !important;
+
+hgridstyle|padding: auto !important;grid-auto-flow: column !important;grid-gap: 10px !important;justify-content: left !important;align-self: center !important;justify-self: center !important;position: absolute !important;bottom: 50px !important;
 
 headerstyle|display: none !important;
 
@@ -46,6 +50,8 @@ backgroundstyle|background-image: url('###bgurl###') !important;background-size:
 
 gridstyle|padding-top: 2em !important;
 
+hgridstyle|padding: auto !important;grid-auto-flow: column !important;grid-gap: 10px !important;justify-content: left !important;align-self: center !important;justify-self: center !important;position: absolute !important;bottom: 50px !important;
+
 headerstyle|display: none !important;
 
 activetilestyle|transform: scale(1.5) !important;border: 3px solid rgb(253, 1, 156) !important;
@@ -63,6 +69,8 @@ tilestyle|box-shadow:  -10px -6px 31px -10px #1777cb, 7px 8px 27px -5px rgb(73, 
 backgroundstyle|background-image: url('###bgurl###') !important;background-size: cover !important;
 
 gridstyle|padding-top: 2em !important;
+
+hgridstyle|padding: auto !important;grid-auto-flow: column !important;grid-gap: 10px !important;justify-content: left !important;align-self: center !important;justify-self: center !important;position: absolute !important;bottom: 50px !important;
 
 headerstyle|display: none !important;
 
@@ -82,6 +90,8 @@ backgroundstyle|background-image: url('###bgurl###') !important;background-size:
 
 gridstyle|padding-top: 2em !important;
 
+hgridstyle|padding: auto !important;grid-auto-flow: column !important;grid-gap: 10px !important;justify-content: left !important;align-self: center !important;justify-self: center !important;position: absolute !important;bottom: 50px !important;
+
 headerstyle|display: none !important;
 
 activetilestyle|transform: scale(1.5) !important;border: 5px solid rgba(254, 213, 178, 0.7) !important;
@@ -100,6 +110,8 @@ backgroundstyle|background-image: url('###bgurl###') !important;background-size:
 
 gridstyle|padding-top: 2em !important;
 
+hgridstyle|padding: auto !important;grid-auto-flow: column !important;grid-gap: 10px !important;justify-content: left !important;align-self: center !important;justify-self: center !important;position: absolute !important;bottom: 50px !important;
+
 headerstyle|display: none !important;
 
 activetilestyle|transform: scale(1.5) !important;border: 5px solid rgb(205, 199, 255) !important;
@@ -112,11 +124,13 @@ previewimage|![](images/keith-misner-h0Vxgz5tyXA-unsplash-mini.jpg)
 
 backgroundurl|![](images/keith-misner-h0Vxgz5tyXA-unsplash.jpg)
 
-tilestyle|box-shadow: 0 2px 1px  rgba(0,0,0,0.9), 0 4px 2px  rgba(0,0,0,0.9), 0 8px 4px  rgba(0,0,0,0.9), 0 16px 8px  rgba(0,0,0,0.9), 0 32px 16px  rgba(0,0,0,0.9) !important;border-radius: 0.3rem !important;border-color: white !important;border-width: 1em !important;padding-top: 20% !important;padding-bottom: 20% !important;background-color: white !important;margin-top: 1em !important;margin-bottom: 1em !important;margin-left: 2em !important;margin-right: 2em !important;
+tilestyle|box-shadow: 0 2px 1px  rgba(0,0,0,0.9), 0 4px 2px  rgba(0,0,0,0.9), 0 8px 4px  rgba(0,0,0,0.9), 0 16px 8px  rgba(0,0,0,0.9), 0 32px 16px  rgba(0,0,0,0.9) !important;border-radius: .5rem !important;border-color: #000 !important;border-width: 1em !important;padding-top: 15% !important;padding-bottom: 15% !important;background-color: #000 !important;margin-top: 1em !important;margin-bottom: 1em !important;margin-left: 2em !important;margin-right: 2em !important;
 
 backgroundstyle|background-image: url('###bgurl###') !important;background-size: cover !important;
 
 gridstyle|padding-top: 2em !important;
+
+hgridstyle|padding: auto !important;grid-auto-flow: column !important;grid-gap: 10px !important;justify-content: left !important;align-self: center !important;justify-self: center !important;position: absolute !important;bottom: 50px !important;
 
 headerstyle|display: none !important;
 
@@ -136,6 +150,8 @@ backgroundstyle|background-image: url('###bgurl###') !important;background-size:
 
 gridstyle|padding-top: 2em !important;
 
+hgridstyle|padding: auto !important;grid-auto-flow: column !important;grid-gap: 10px !important;justify-content: left !important;align-self: center !important;justify-self: center !important;position: absolute !important;bottom: 50px !important;
+
 headerstyle|display: none !important;
 
 activetilestyle|transform: scale(1.5) !important;border: 5px solid rgba(128, 207, 250,0.9) !important;
@@ -153,6 +169,8 @@ tilestyle|box-shadow: 0 7px 15px 1px rgba(255, 86, 86, 0.9) !important;border-ra
 backgroundstyle|background-image: url('###bgurl###') !important;background-size: cover !important;
 
 gridstyle|padding-top: 2em !important;
+
+hgridstyle|padding: auto !important;grid-auto-flow: column !important;grid-gap: 10px !important;justify-content: left !important;align-self: center !important;justify-self: center !important;position: absolute !important;bottom: 50px !important;
 
 headerstyle|display: none !important;
 
@@ -172,6 +190,8 @@ backgroundstyle|background-image: url('###bgurl###') !important;background-size:
 
 gridstyle|padding-top: 2em !important;
 
+hgridstyle|padding: auto !important;grid-auto-flow: column !important;grid-gap: 10px !important;justify-content: left !important;align-self: center !important;justify-self: center !important;position: absolute !important;bottom: 50px !important;
+
 headerstyle|display: none !important;
 
 activetilestyle|transform: scale(1.5) !important;border: 5px solid rgba(99, 90, 57,0.7) !important;
@@ -189,6 +209,8 @@ tilestyle|box-shadow:-2px -2px 4px  rgba(244, 128, 158,0.9), 0 0 26px 0 rgb(122,
 backgroundstyle|background-image: url('###bgurl###') !important; background-size: cover !important;
 
 gridstyle|padding-top: 2em !important;
+
+hgridstyle|padding: auto !important;grid-auto-flow: column !important;grid-gap: 10px !important;justify-content: left !important;align-self: center !important;justify-self: center !important;position: absolute !important;bottom: 50px !important;
 
 headerstyle|display: none !important;
 
@@ -208,6 +230,8 @@ backgroundstyle|background-image: url('###bgurl###') !important;background-size:
 
 gridstyle|padding-top: 2em !important;
 
+hgridstyle|padding: auto !important;grid-auto-flow: column !important;grid-gap: 10px !important;justify-content: left !important;align-self: center !important;justify-self: center !important;position: absolute !important;bottom: 50px !important;
+
 headerstyle|display: none !important;
 
 activetilestyle|transform: scale(1.5) !important;border: 3px solid rgb(250, 251, 17) !important;
@@ -225,6 +249,8 @@ tilestyle|box-shadow:  -10px -6px 31px -10px #07f2eb, 7px 8px 27px -5px  #007a80
 backgroundstyle|background-image: url('###bgurl###') !important;background-size: cover !important;
 
 gridstyle|padding-top: 2em !important;
+
+hgridstyle|padding: auto !important;grid-auto-flow: column !important;grid-gap: 10px !important;justify-content: left !important;align-self: center !important;justify-self: center !important;position: absolute !important;bottom: 50px !important;
 
 headerstyle|display: none !important;
 
@@ -244,6 +270,8 @@ backgroundstyle|background-image: url('###bgurl###') !important;background-size:
 
 gridstyle|padding-top: 2em !important;
 
+hgridstyle|padding: auto !important;grid-auto-flow: column !important;grid-gap: 10px !important;justify-content: left !important;align-self: center !important;justify-self: center !important;position: absolute !important;bottom: 50px !important;
+
 headerstyle|display: none !important;
 
 activetilestyle|transform: scale(1.5) !important;border: 5px solid rgb(242, 248, 252) !important;
@@ -261,6 +289,8 @@ tilestyle|box-shadow: 0 9px 0 -5px rgba(0, 0, 229, 0.8), 0 15px 0 -7px rgba(0, 0
 backgroundstyle|background-image: url('###bgurl###') !important;background-size: cover !important;
 
 gridstyle|padding-top: 2em !important;
+
+hgridstyle|padding: auto !important;grid-auto-flow: column !important;grid-gap: 10px !important;justify-content: left !important;align-self: center !important;justify-self: center !important;position: absolute !important;bottom: 50px !important;
 
 headerstyle|display: none !important;
 
@@ -280,6 +310,8 @@ backgroundstyle|background-image: url('###bgurl###') !important;background-size:
 
 gridstyle|padding-top: 2em !important;
 
+hgridstyle|padding: auto !important;grid-auto-flow: column !important;grid-gap: 10px !important;justify-content: left !important;align-self: center !important;justify-self: center !important;position: absolute !important;bottom: 50px !important;
+
 headerstyle|display: none !important;
 
 activetilestyle|transform: scale(1.5) !important;border: 5px solid rgba(223, 204, 123,0.8) !important;
@@ -297,6 +329,8 @@ tilestyle|box-shadow:  0 -27px 30px -10px rgba(89, 136, 168, 0.77) !important;bo
 backgroundstyle|background-image: url('###bgurl###') !important;background-size: cover !important;
 
 gridstyle|padding-top: 2em !important;
+
+hgridstyle|padding: auto !important;grid-auto-flow: column !important;grid-gap: 10px !important;justify-content: left !important;align-self: center !important;justify-self: center !important;position: absolute !important;bottom: 50px !important;
 
 headerstyle|display: none !important;
 
@@ -316,6 +350,8 @@ backgroundstyle|background-image: url('###bgurl###') !important;background-size:
 
 gridstyle|padding-top: 2em !important;
 
+hgridstyle|padding: auto !important;grid-auto-flow: column !important;grid-gap: 10px !important;justify-content: left !important;align-self: center !important;justify-self: center !important;position: absolute !important;bottom: 50px !important;
+
 headerstyle|display: none !important;
 
 activetilestyle|transform: scale(1.5) !important;border: 5px solid rgba(243, 176, 105, 0.77) !important;
@@ -333,6 +369,8 @@ tilestyle|box-shadow:  -4px -4px 0  rgba(125, 99, 69, 0.91), 2px -2px 0  rgba(23
 backgroundstyle|background-image: url('###bgurl###') !important;background-size: cover !important;
 
 gridstyle|padding-top: 2em !important;
+
+hgridstyle|padding: auto !important;grid-auto-flow: column !important;grid-gap: 10px !important;justify-content: left !important;align-self: center !important;justify-self: center !important;position: absolute !important;bottom: 50px !important;
 
 headerstyle|display: none !important;
 
@@ -352,6 +390,8 @@ backgroundstyle|background-image: url('###bgurl###') !important;background-size:
 
 gridstyle|padding-top: 2em !important;
 
+hgridstyle|padding: auto !important;grid-auto-flow: column !important;grid-gap: 10px !important;justify-content: left !important;align-self: center !important;justify-self: center !important;position: absolute !important;bottom: 50px !important;
+
 headerstyle|display: none !important;
 
 activetilestyle|transform: scale(1.5) !important;border: 5px solid rgb(192, 158, 126) !important;
@@ -369,6 +409,8 @@ tilestyle|box-shadow:10px 0 0 -5px rgba(245, 4, 23, 0.8),  -2px -2px 20px 10px r
 backgroundstyle|background-image: url('###bgurl###') !important;background-size: cover !important;
 
 gridstyle|padding-top: 2em !important;
+
+hgridstyle|padding: auto !important;grid-auto-flow: column !important;grid-gap: 10px !important;justify-content: left !important;align-self: center !important;justify-self: center !important;position: absolute !important;bottom: 50px !important;
 
 headerstyle|display: none !important;
 
@@ -388,6 +430,8 @@ backgroundstyle|background-image: url('###bgurl###') !important;background-size:
 
 gridstyle|padding-top: 2em !important;
 
+hgridstyle|padding: auto !important;grid-auto-flow: column !important;grid-gap: 10px !important;justify-content: left !important;align-self: center !important;justify-self: center !important;position: absolute !important;bottom: 50px !important;
+
 headerstyle|display: none !important;
 
 activetilestyle|transform: scale(1.5) !important;border: 5px solid rgb(233, 156, 54) !important;
@@ -405,6 +449,8 @@ tilestyle|box-shadow:-3px 3px 0 2px rgb(226, 191, 154), 3px -3px 0 2px rgb(226, 
 backgroundstyle|background-image: url('###bgurl###') !important;background-size: cover !important;
 
 gridstyle|padding-top: 2em !important;
+
+hgridstyle|padding: auto !important;grid-auto-flow: column !important;grid-gap: 10px !important;justify-content: left !important;align-self: center !important;justify-self: center !important;position: absolute !important;bottom: 50px !important;
 
 headerstyle|display: none !important;
 
@@ -424,6 +470,8 @@ backgroundstyle|background-image: url('###bgurl###') !important;background-size:
 
 gridstyle|padding-top: 2em !important;
 
+hgridstyle|padding: auto !important;grid-auto-flow: column !important;grid-gap: 10px !important;justify-content: left !important;align-self: center !important;justify-self: center !important;position: absolute !important;bottom: 50px !important;
+
 headerstyle|display: none !important;
 
 activetilestyle|transform: scale(1.5) !important;border: 5px solid rgb(254, 201, 59) !important;
@@ -442,9 +490,71 @@ backgroundstyle|background-image: url('###bgurl###') !important; background-size
 
 gridstyle|padding-top: 2em !important;
 
+hgridstyle|padding: auto !important;grid-auto-flow: column !important;grid-gap: 10px !important;justify-content: left !important;align-self: center !important;justify-self: center !important;position: absolute !important;bottom: 50px !important;
+
 headerstyle|display: none !important;
 
 activetilestyle|transform: scale(1.5) !important;border: 5px solid rgb(243, 216, 152) !important;
+
+additionalstyle|
+
+# Flow
+
+previewimage|![](images/gradienta-MJxvJlQqldM-unsplash-mini.jpg)
+
+backgroundurl|![](images/gradienta-MJxvJlQqldM-unsplash.jpg)
+
+tilestyle|box-shadow:0 5px 10px 2px rgb(192, 145, 95),0px 20px 30px -0px rgba(221, 90, 0, 0.6) !important;border-radius: 10% !important;border-color: white !important;border-width: 1.5em !important;margin-top: 1em !important;margin-bottom: 1em !important;margin-left: 2em !important;margin-right: 2em !important;
+
+backgroundstyle|background-image: url('###bgurl###') !important; background-size: cover !important;
+
+gridstyle|padding-top: 2em !important;
+
+hgridstyle|padding: auto !important;grid-auto-flow: column !important;grid-gap: 10px !important;justify-content: left !important;align-self: center !important;justify-self: center !important;position: absolute !important;bottom: 50px !important;
+
+headerstyle|display: none !important;
+
+activetilestyle|transform: scale(1.5) !important;border: 5px solid rgba(221, 90, 0, 0.6) !important;
+
+additionalstyle|
+
+# Fire
+
+previewimage|![](images/ella-peebles-kUkqoqwY61s-unsplash-mini.jpg)
+
+backgroundurl|![](images/ella-peebles-kUkqoqwY61s-unsplash.jpg)
+
+tilestyle|box-shadow: 0 9px 0 -5px rgba(255, 200, 95, 0.5), 0 15px 0 -7px rgba(210, 52, 16, 0.7), 0 -9px 0 -5px rgba(255, 200, 95, 0.8), 0 -15px 0 -7px rgba(210, 52, 16, 0.7) !important;border-radius: 2.5rem !important;border-color: white !important;border-width: 1.5em !important;margin-top: 1em !important;margin-bottom: 1em !important;margin-left: 2em !important;margin-right: 2em !important;
+
+backgroundstyle|background-image: url('###bgurl###') !important; background-size: cover !important;
+
+gridstyle|padding-top: 2em !important;
+
+hgridstyle|padding: auto !important;grid-auto-flow: column !important;grid-gap: 10px !important;justify-content: left !important;align-self: center !important;justify-self: center !important;position: absolute !important;bottom: 50px !important;
+
+headerstyle|display: none !important;
+
+activetilestyle|transform: scale(1.5) !important;border: 5px solid rgba(210, 52, 16, 0.9) !important;
+
+additionalstyle|
+
+# Space
+
+previewimage|![](images/jeremy-thomas-E0AHdsENmDg-unsplash-mini.jpg)
+
+backgroundurl|![](images/jeremy-thomas-E0AHdsENmDg-unsplash.jpg)
+
+tilestyle|box-shadow:  -2px -2px 0  rgba(253, 242, 255, 0.91), 2px -2px 0  rgba(98, 109, 163, 0.77), 2px 4px 0 rgba(98, 109, 163, 0.77), -2px 4px 0 rgba(98, 109, 163, 0.77), -6px -6px 0  rgba(253, 242, 255, .5), 5px 5px 0  rgba(3, 16, 58, 0.91), 14px 24px 30px rgba(18, 17, 13, 0.77), -3px -3px 10px  rgb(253, 242, 255) !important;border-radius: 50% !important;border-color: white !important;border-width: 1.5em !important;margin-top: 1em !important;margin-bottom: 1em !important;margin-left: 2em !important;margin-right: 2em !important;
+
+backgroundstyle|background-image: url('###bgurl###') !important; background-size: cover !important;
+
+gridstyle|padding-top: 2em !important;
+
+hgridstyle|padding: auto !important;grid-auto-flow: column !important;grid-gap: 10px !important;justify-content: left !important;align-self: center !important;justify-self: center !important;position: absolute !important;bottom: 50px !important;
+
+headerstyle|display: none !important;
+
+activetilestyle|transform: scale(1.5) !important;border: 5px solid rgba(146, 146, 197, 0.6) !important;
 
 additionalstyle|
 
