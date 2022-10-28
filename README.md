@@ -1,2 +1,2 @@
-# stadia-themer
-Makes your Stadia-Library look nicer
+# GeForceNow-themer
+Makes your GeForceNow-Library look nicer
