@@ -14,7 +14,7 @@ hgridstyle|padding: auto !important;grid-auto-flow: column !important;grid-gap: 
 
 headerstyle|display: none !important;
 
-activetilestyle|border: 5px solid rgb(119, 75, 151) !important;
+activetilestyle|transform: scale(1.5) !important;border: 5px solid rgb(119, 75, 151) !important;
 
 additionalstyle|
 
@@ -124,7 +124,7 @@ previewimage|![](images/keith-misner-h0Vxgz5tyXA-unsplash-mini.jpg)
 
 backgroundurl|![](images/keith-misner-h0Vxgz5tyXA-unsplash.jpg)
 
-tilestyle|box-shadow: 0 2px 1px  rgba(0,0,0,0.9), 0 4px 2px  rgba(0,0,0,0.9), 0 8px 4px  rgba(0,0,0,0.9), 0 16px 8px  rgba(0,0,0,0.9), 0 32px 16px  rgba(0,0,0,0.9) !important;border-radius: .5rem !important;border-color: #000 !important;border-width: 1em !important;padding-top: 15% !important;padding-bottom: 15% !important;background-color: #000 !important;
+tilestyle|box-shadow: 0 2px 1px  rgba(0,0,0,0.9), 0 4px 2px  rgba(0,0,0,0.9), 0 8px 4px  rgba(0,0,0,0.9), 0 16px 8px  rgba(0,0,0,0.9), 0 32px 16px  rgba(0,0,0,0.9) !important;border-radius: .5rem !important;border-color: #000 !important;border-width: 1em !important;background-color: #000 !important;
 
 backgroundstyle|background-image: url('###bgurl###') !important;background-size: cover !important;
 
